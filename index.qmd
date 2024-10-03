@@ -43,9 +43,31 @@ Some groups do attempt to rank graduate programs in the same way, but they have 
 
 In EEB it's most common to first identify one or two mentors in a program and join their lab directly (while still being admitted to a program overall). Some programs, especially more general biology programs, have rotations where students work for a substantial period of time in different labs before an advisor is identified. In either case, it is still good to reach out to potential mentors early (and try them again if at first you do not get a reply: often they are in the field or otherwise inaccessible). 
 
+## How to pick a mentor?
+
+Some things to consider:
+
+* **Research interests**: Are they doing the sort of work you want to do? Are they doing it recently? Some people shift research interests, go into administrative work, and similar so their current focus might not be what you need. <https://openalex.org> and <https://scholar.google.com/> can be useful for finding interesting people. 
+* **Lab outcomes**: Do their students get positions? Are they the sort of position you would want? Do their students graduate, drop out, or flee the lab? (<https://web.archive.org> can be good for looking at older versions of lab websites: who was on the "People" page but isn't still there or on the "Alumni" page?). You should reach out to current and past students.
+* **Lab size and career stage**: Do you want to enter into a productive machine with a lot of postdocs and students who churn out papers but possibly less attention per student, or a small lab where there might be more attention but fewer projects to plug into? Is the professor going to be around for the duration of your degree or will they retire or move?
+* **Are they humane?**: There is a lot of misconduct in academia. Power dynamics can be extreme, which can create an environment where this can happen and be underreported or be unaddressed when reported. You might find public information on misconduct (the <https://academic-sexual-misconduct-database.org> can be useful for this), but most is not public. Try to get a sense of this from your interactions with the potential mentors, their current and past lab personnel, other people in their department, and trusted people in the field. Not every whisper is true, but many are. Make sure not to endanger anyone who gives you information: "I heard from one of your students that..." puts that student at risk. 
+* **Money and other resources**: Do they have funding? This will be on their CV; you can also get information from <https://www.nsf.gov/awardsearch/> (just for NSF grants; they may have money from other sources). How do their students get funding for travel, for equipment, for fieldwork? Funding can be especially important in programs where a faculty member is expected to fund their students at least part of the time with research funds as RAs: is it a safe bet for you to assume they will bring in enough to cover you?
+
 ## Mental health in grad school
 
-Studies show grad school can be terrible for mental health. This does not mean people facing mental health challenges should avoid grad school, but it does mean that everyone should be aware of risks and consider strategies to mitigate them. Programs and mentors should be addressing these, as well -- some are, others not so much. 
+Studies show grad school can be terrible for mental health. This does not mean people facing mental health challenges should avoid grad school, but it does mean that everyone should be aware of risks and consider strategies to mitigate them. Programs and mentors should be addressing these, as well -- some are, others not so much. Does the program and mentor show awareness of this? Are there good resources? Do current students feel supported?
+
+## Location
+
+Grad school is a place you will physically live in for multiple years. You, and any loved ones coming with you, have to be able to live there and be reasonably happy. Part of this is climate: if you hate cold, certain parts of the US might not be fun for you. Housing costs, availability of childcare, public transportation, access to your favorite activities, and more can all be important.
+
+One thing that people might not expect is the heterogeneity of laws and customs in the US. Some laws are federal; some are state; some are local; and some policies are set by your institution. As a trivial example, there is no US federal law on whether someone can keep a ferret as a pet (but there might be a law about whether it can be brought onboard a commercial aircraft, or other limits). Some states have laws allowing them, some forbid them. In the states that do allow them, some cities could prohibit them. Even if the city allows them, your college might or might not allow pets in student offices. So if you really want to keep Mr. Fuzzysnake Magicpants on your desk, you have to look at all these different levels to decide if this is a place where you can. And note that any of these policies can change in the future.
+
+There are many more serious issues that can vary dramatically by location in this way. There are heterogeneous policies on weapons, reproductive healthcare access, gender-affirming care, legality of certain drugs, rules on protests, and more. Some people don't care about these issues; for others they might be critical (and in different directions depending on the individual). Consider what will be important to you and your loved ones when comparing locations. Remember the different levels of policy: an institution's leadership might strongly favor one particular policy, but that might be moot if a law changes at a higher level. Even if your potential advisor is very aligned with your priorities, they may not be in control of the policies that affect you and cannot make any promises. Also note that institutional or higher level policies may also drive what is covered in the employee healthcare plan.
+
+## Safety
+
+There are many levels of safety. ____________
 
 
 ## Do I need to take the GRE?
