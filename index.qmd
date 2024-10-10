@@ -2,7 +2,7 @@
 title: "Applying to Graduate School in Ecology, Evolution, and Related Fields"
 ---
 
-**Come to our webinar: October 10, 2024, 11 am US Eastern, 8 am US Pacific, 15:00 UTC. <https://tennessee.zoom.us/j/86340866401>**
+**Come to our webinar: October 17, 2024, 11 am US Eastern, 8 am US Pacific, 15:00 UTC. <https://tennessee.zoom.us/j/86340866401>**
 
 
 This page has info on how to apply to ecology, evolutionary biology, behavior, and related fields for graduate school. Our focus is the US. The goal is to expose some of the "hidden curriculum" -- some of the information that some people know (for example, if their parents are professors) but might not invisible to those with different backgrounds. Note our potential conflicts of interest as faculty who mentor grad students and also serve on an admissions committee: we could inadvertently be painting a too positive picture of the process. There can also be substantial differences across fields: some of this could apply to a PhD program in history, for example, but some might be terrible. We also come with particular backgrounds, perspectives, and experiences: they might not match your experience or predict how things will work out for you. Searching for "hidden curriculum" and "graduate school" will bring up many more resources -- we undoubtedly have missed some major issues. We also describe things as we think they are, not as we think they should be.
@@ -21,9 +21,6 @@ Healthcare in the US is also a varied system. Eyes and dental care are treated s
 
 Note that in most cases, the offer of admission and offer of support (as a TA and RA) come in together, but you could in most cases choose to separate them (though some programs do require teaching a semester or two). For example, if you happen to be wealthy, you could choose to pay your own tuition and not take a TA position. This is very rare.
 
-## Should you go?
-
-Grad school in EEB might be far cheaper than law school, med school, vet school, or business school, but it is still a substantial investment of time and forestalls pursuing other opportunities. It is important to start with a goal -- it could be a particular kind of job, to dive deep into a biological question, or to get some particular skills. It is often unwise for it to be a default option. 
 
 ## What do you want to do when you graduate?
 
@@ -31,7 +28,19 @@ The faculty in EEB programs have careers as faculty in EEB programs (though some
 
 However, for many students, jobs other than faculty ones are not the reluctantly accepted viable alternative -- they are the *goal*. Degrees in EEB can lead to work at nonprofits protecting the environment, government agencies conserving natural resources, helping companies reduce their environmental impact, science communications, and much more.
 
-It is important to consider what you want to do when you graduate, as this affects which mentors and programs you prioritize as well as how you work in grad school. If you want to be a faculty member, a program that focuses on training for this could be a good fit. If you want to work at a government agency, it could be important to take courses that the agency wants to see on a transcript. 
+It is important to consider what you want to do when you graduate, as this affects which mentors and programs you prioritize as well as how you work in grad school. If you want to be a faculty member, a program that focuses on training for this could be a good fit. If you want to work at a government agency, it could be important to take courses that the agency wants to see on a transcript. Will your mentor support you in your career goal? What if your career goal changes?
+
+![Tenured faculty giving advice on getting a tenured job (repurposing of an XKCD by Randall Munroe)](https://imgs.xkcd.com/comics/survivorship_bias.png){fig-alt="XKCD cartoon showing a person on stage surrounded by bags of money saying 'Never stop buying lottery tickets, no matter what anyone tells you. I failed again and again, but I never gave up. I took extra jobs and poured the money into tickets. And here I am, proof that if you put in the time, it pays off!' The caption says 'Every inspirational speech by someone successful should have to start with a disclaimer about survivorship bias'."}
+
+## Should you go?
+
+Grad school in EEB might be far cheaper than law school, med school, vet school, or business school, but it is still a substantial investment of time and forestalls pursuing other opportunities (and there can be a concern about being "overcredentialed" for some jobs). It is important to start with a goal -- it could be a particular kind of job, to dive deep into a biological question, or to get some particular skills. It is often unwise for it to be a default option. 
+
+## Masters or PhD?
+
+* First, for your career goals, what do you need? A PhD is essential for some careers, an actual impediment for others. 
+* A Masters is coursework, one or more papers, and 2-3 years; a PhD is coursework, 3+ papers, and 5-6 years.
+
 
 ## What is the timeline for applying?
 
@@ -112,6 +121,10 @@ Another issue can be alcohol: not everyone drinks for a variety of reasons (reli
 The GRE is a standardized test that was once a common requirement for applicants to graduate school. It tests for [high school level math and stats](https://www.ets.org/gre/test-takers/general-test/prepare/content/quantitative-reasoning.html), including understanding of even and odd numbers, perimeter of shapes, reading bar charts, and more; [verbal reasoning](https://www.ets.org/gre/test-takers/general-test/prepare/content/verbal-reasoning.html) including reading comprehension and completing text; and [analytical writing](https://www.ets.org/gre/test-takers/general-test/prepare/content/analytical-writing.html). It is over $200, but some student in the US can get a discount to $100 (I could not find out information on international fee reductions). There are also subject tests.
 
 Most programs have eliminated it in admissions: see [Langin (2022)](https://www.science.org/content/article/gre-exit-gains-momentum-ph-d-programs-drop-exam-requirement-amid-pandemic). Its expense serves as a barrier to many students, and the information it purports to predict, grades in grad school, are not generally a major factor in research-based graduate programs. However, do check if the programs you are considering do still require it. 
+
+## Other resources
+
+* Botanical Society of America webinar on grad school: <https://www.youtube.com/watch?v=la0z9yVu6n8>
 
 ## Jargon
 
