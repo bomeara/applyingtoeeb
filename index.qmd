@@ -2,7 +2,7 @@
 title: "Applying to Graduate School in Ecology, Evolution, and Related Fields"
 ---
 
-**Come to our webinar: October 17, 2024, 11 am US Eastern, 8 am US Pacific, 15:00 UTC. <https://tennessee.zoom.us/j/86340866401>**
+**Come to our webinar: October 24, 2024, 11 am US Eastern, 8 am US Pacific, 15:00 UTC. <https://tennessee.zoom.us/j/86340866401>**
 
 
 This page has info on how to apply to ecology, evolutionary biology, behavior, and related fields for graduate school. Our focus is the US. The goal is to expose some of the "hidden curriculum" -- some of the information that some people know (for example, if their parents are professors) but might not invisible to those with different backgrounds. Note our potential conflicts of interest as faculty who mentor grad students and also serve on an admissions committee: we could inadvertently be painting a too positive picture of the process. There can also be substantial differences across fields: some of this could apply to a PhD program in history, for example, but some might be terrible. We also come with particular backgrounds, perspectives, and experiences: they might not match your experience or predict how things will work out for you. Searching for "hidden curriculum" and "graduate school" will bring up many more resources -- we undoubtedly have missed some major issues. We also describe things as we think they are, not as we think they should be.
@@ -36,10 +36,15 @@ It is important to consider what you want to do when you graduate, as this affec
 
 Grad school in EEB might be far cheaper than law school, med school, vet school, or business school, but it is still a substantial investment of time and forestalls pursuing other opportunities (and there can be a concern about being "overcredentialed" for some jobs). It is important to start with a goal -- it could be a particular kind of job, to dive deep into a biological question, or to get some particular skills. It is often unwise for it to be a default option. 
 
+The rest of this page has lots of pros and cons embedded, so I'm not going to embed them here. 
+
 ## Masters or PhD?
 
 * First, for your career goals, what do you need? A PhD is essential for some careers, an actual impediment for others. 
-* A Masters is coursework, one or more papers, and 2-3 years; a PhD is coursework, 3+ papers, and 5-6 years.
+* A Masters is coursework, one or more papers you lead, and 2-3 years; a PhD is coursework, 3+ papers you lead, and 5-6 years.
+* You do not need to do a Masters before a PhD. Among a pool of applicants for a PhD, it makes you more competitive ("look, they can do research and succeed in grad school") but it is not necessary in most programs. If you know clearly what you want to do, going directly into a PhD can be a good choice.
+* If you are not sure what you want, or if you are switching to an area different from your past experience, a Masters can be important -- learn skills and the field before a half decade commitment. 
+* There are often ways to transition from a Masters to a PhD, but this is not guaranteed. There can also be ways to transition from a PhD to a Masters -- if you decide your goals are better met by a Masters, you want to leave the program for a different mentor or area, and other reasons. An important thing to note: almost no one will know about transitons either way. In theory they might be able to look at archived versions of a web page, but few have time for that -- they're just going to see on your CV when you got each degree, maybe (depending on how you choose to format it) when you started each degree.
 
 
 ## What is the timeline for applying?
