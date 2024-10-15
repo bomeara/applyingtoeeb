@@ -4,7 +4,7 @@ project:
 
 
 website:
-  title: "Applying to Graduate School in Ecology, Evolution, and Related Fields"
+  title: "Applying to US Graduate School in Ecology, Evolution, and Related Fields"
   navbar:
     left:
       - href: index.qmd
