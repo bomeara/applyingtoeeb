@@ -136,6 +136,32 @@ There are many dimensions of safety. There is the obvious physical lab safety: i
 
 Similarly, there can be safety issues due to verbal or physical assault in the community where you will live while not in the field. There can be general dangers (such as whether bicycling is safe on the local roads) but also ones where individuals can be targeted based on their identities. Peers may be able to give you a sense of this. While faculty may also experience these, note that their day-to-day lives can also be very different from those of most (but not all) grad students: being at work 9-5 and then driving home to a house in suburbia is different from working from noon until 8 pm and then walking back to an apartment (neither is risk-free, but the risks can be different).
 
+## Issues for international students
+
+In US jargon, "international student" is a student coming from outside the US, typically on a visa. 
+
+This section contains information courtesy of [David Tan](https://davidbirdtan.com), taken (with permission and some slight tweaks) from one of his presentations.
+
+* Some PhD programs have funding restrictions for international students
+	* Funding for some projects may be explicitly for US citizens only
+	* Funding for some programs may be contingent on scholarshps that are only available to US citizens
+* Some research grants/fellowships are off-limits to international students
+	* National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP)
+	* Ford Foundation Fellowships
+* Some universities have unexpected regulations/restrictions on international graduate students
+	* Some places do not allow international students to teach in their first year
+	* Some restrictions may be informal or illegal, so check with your advisor and the student handbook [note by BCO: also the international student office]
+* Visa issues may be a problem
+	* [Note by BCO: the probability of a student receiving a visa to the US depends on multiple factors, such as the country of origin, changing US policy, and outcome of an interview. See more [here](https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html).]
+* English proficiency requirements can be waived for students from some countries depending on the institution
+* US F-1 visas have work restrictions: no side gigs in the US outside your assistantship
+	* Side gigs outside the US will be tricky to handle, depending on whether a tax treaty exists between the US and your outside country to prevent double taxation
+	
+Other notes by BCO:
+
+* Though US law on immigration is at a national level, there can still be different handling at local levels. For example, what happens after an arrest can differ depending on whether the relevant law enforcement agency is a partner in the [287(g) program](https://www.ice.gov/identify-and-arrest/287g).
+* There is [guidance](https://www.ice.gov/doclib/sevis/pdf/impactLaborStrikesNonimmigrantStudents_FAQ.pdf) on how labor strikes can affect students on an F-1 visa.
+
 ## Unions
 
 Graduate students wear multiple hats: students in classes, paid TAs or RAs, people doing their own research for a degree, and more. In the US, this has led to varying rulings on whether they can form unions, especially at private universities; see an overview [here](https://en.wikipedia.org/wiki/Graduate_student_employee_unionization#Private_universities). Not all institutions where grad students can have a union do have a grad union. Different places also have different rules on union membership: whether all employees of a type have to join the union or pay it for its representation or whether it is optional (the legal term is ["right-to-work"](https://en.wikipedia.org/wiki/Right-to-work_law) in the US).
