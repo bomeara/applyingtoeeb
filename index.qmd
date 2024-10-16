@@ -183,7 +183,7 @@ Here are some other resources. Note that as one moves further from ecology and e
 * Hampton and Labou (2017) "Careers in ecology: a fine-scale investigation of national data from the U.S. Survey of Doctorate Recipients" *Ecosphere* 8(12): e02031 <https://doi.org/10.1002/ecs2.2031>
 * Botanical Society of America webinar on grad school: <https://www.youtube.com/watch?v=la0z9yVu6n8>
 * NSF GRFP: <https://www.nsfgrfp.org>
-* German Lab (UC Irvine) advice on applyng to grad school: <https://german.bio.uci.edu/images/PDF/Application_Guide.pdf>
+* German Lab (UC Irvine) advice on applying to grad school: <https://german.bio.uci.edu/images/PDF/Application_Guide.pdf>
 * Casey Dunn (Yale) advice on applying to grad school: <https://medium.com/@caseywdunn/applying-to-biology-phd-programs-58abece3284a>
 * [Undertaking a PhD in France](https://guide-for-international-scientists.inrae.fr/working-at-inrae/contractual-phd-students/undertaking-a-phd-in-france/) and [How to enrol in a doctorate in France](https://guide-for-international-scientists.inrae.fr/working-at-inrae/contractual-phd-students/undertaking-a-phd-in-france/): helpful guides and an interesting contrast to the US system (thanks to [Rob Noble](https://robjohnnoble.github.io) for the links)
 
