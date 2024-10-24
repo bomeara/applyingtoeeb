@@ -2,13 +2,15 @@
 title: "Applying to US Graduate School in Ecology, Evolution, and Related Fields"
 ---
 
-* **Come to our webinar: October 24, 2024, 11 am US Eastern, 8 am US Pacific, 15:00 UTC**
-* Zoom link: <https://tiny.utk.edu/applyeeb> (renders to <https://tennessee.zoom.us/j/86340866401>) 
-* [ICS appointment](meeting-86340866401.ics) to add to your calendar
-* [Poster PDF](ApplyingToEEBWebinarPoster.pdf) to print or share with others
-* Presenters: [Brian O'Meara](https:://brianomeara.info) and [Xingli Giam](https://eeb.utk.edu/people/xingli-giam/), both of the Dept. of Ecology & Evolutionary Biology, University of Tennessee, Knoxville.
-
 This page has info on how to apply to ecology, evolutionary biology, behavior, and related fields for graduate school (note it will keep being added to in the run up to our Oct 24 webinar). In our seminar, Xingli Giam and my focus is the US. The goal is to expose some of the "hidden curriculum" -- some of the information that some people know (for example, if their parents are professors) but might not be known to those with different backgrounds. Note our potential conflicts of interest as faculty who mentor grad students and also serve on an admissions committee: we could inadvertently be painting a too positive picture of the process. There can also be substantial differences across fields: some of this could apply to a PhD program in history, for example, but some might be terrible advice for history. We also come with particular backgrounds, perspectives, and experiences: they might not match your experience or predict how things will work for you. Searching for "hidden curriculum" and "graduate school" will bring up many more resources -- we undoubtedly have missed some major issues. We also describe things as we think they are, not as we think they should be.
+
+## Webinar
+
+* On Oct. 24, 2024, [Brian O'Meara](https:://brianomeara.info) and [Xingli Giam](https://eeb.utk.edu/people/xingli-giam/), both of the Dept. of Ecology & Evolutionary Biology, University of Tennessee, Knoxville, presented a webinar on applying to grad school in ecology and evolution. See [PDF](2024x10_ApplyingToGradSchool.pdf) or [PowerPoint](2024x10_ApplyingToGradSchool.pptx) files.
+
+{{< video https://www.youtube.com/embed/pTF51989lFU?si=iEaibUQW5t5d_pK
+start="2" >}}
+
 
 The rest of this page represents my [Brian O'Meara's] personal views; if you have suggestions, please see contact info at the bottom of the page.
 
@@ -140,7 +142,9 @@ Similarly, there can be safety issues due to verbal or physical assault in the c
 
 In US jargon, "international student" is a student coming from outside the US, typically on a visa. 
 
-This section contains information courtesy of [David Tan](https://davidbirdtan.com), taken (with permission and some slight tweaks) from one of his presentations.
+**See [this page](marcondes_intl.qmd) that contains a 2017 blog post [Rafael Marcondes](https://www.rafaelmarcondes.com/) on applying to grad school in the US from Brazil.**
+
+The section below contains information courtesy of [David Tan](https://davidbirdtan.com), taken (with permission and some slight tweaks) from one of his presentations.
 
 * Some PhD programs have funding restrictions for international students
 	* Funding for some projects may be explicitly for US citizens only

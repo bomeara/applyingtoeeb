@@ -9,6 +9,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: marcondes_intl.qmd
+        text: International Students
       - about.qmd
 
 format:
