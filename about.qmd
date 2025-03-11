@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-Created by Brian O'Meara, with feedback and suggestions from [eventually others].
+Main page and slides by Brian O'Meara, with feedback and suggestions from various folks credited on the pages. 
